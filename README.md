@@ -22,3 +22,7 @@ URL pattern analysis and machine learning.
 - Scikit-learn
 - Pandas
 - Regex
+
+## 📂 Project Structure
+# phishing-awareness-detector
+# phishing-awareness-detector
