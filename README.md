@@ -24,5 +24,20 @@ URL pattern analysis and machine learning.
 - Regex
 
 ## 📂 Project Structure
-# phishing-awareness-detector
-# phishing-awareness-detector
+phishing-awareness-detector/
+│
+├── dataset/
+│   └── sample_urls.csv
+│
+├── model/
+│   └── .gitkeep
+│
+├── src/
+│   ├── detector.py
+│   ├── train_model.py
+│   └── features.py
+│
+├── .gitignore
+├── requirements.txt
+├── README.md
+└── LICENSE
