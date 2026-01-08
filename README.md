@@ -22,3 +22,8 @@ URL pattern analysis and machine learning.
 - Scikit-learn
 - Pandas
 - Regex
+
+## ⚠️ Limitations
+This model is trained on publicly available phishing datasets and uses heuristic-based
+feature extraction. While it minimizes false positives, no machine learning model can
+guarantee 100% detection accuracy or zero false alerts.
